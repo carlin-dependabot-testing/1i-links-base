@@ -4,7 +4,7 @@ A modern, static link management application designed to help teams organize and
 
 The application excels at managing multiple environments (Production/Staging/Development) and keeps bookmarks organized through categories and tags, all while requiring no backend infrastructure or database.
 
-Includes a powerful admin interface (accessible locally) for easy management of links, categories, tags, and settings.
+Includes a powerful admin interface (accessible locally) for easy management of links, categories, tags, and settings. dumb commit to trigger actions
 
 ![Links Base](./docs/links-base.jpg)
 
